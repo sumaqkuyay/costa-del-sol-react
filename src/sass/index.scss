@@ -1,0 +1,19 @@
+//View 
+@import "./styleViews/Login";
+@import "./styleViews/Home";
+@import "./styleComponents/SideBar";
+@import "./styleViews/PartnerRequests";
+@import "./styleViews/GuestEntrace";
+@import "./styleViews/GuestList";
+@import "./styleViews/PartnerFile";
+@import "./styleViews/PartnerData";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+:root{
+/*===== Font and typography =====*/
+--body-font: 'Roboto';
+--normal-font-size: 1rem;
+--small-font-size: .875rem;
+}

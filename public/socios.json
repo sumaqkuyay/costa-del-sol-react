@@ -1,0 +1,2798 @@
+[
+  {   "Fecha Modificación": "10/22/20",
+      "Nombres": "James Augusto",
+      "Apellidos": "Abad Tordoya",
+      "Fecha de Nacimiento": "1/29/60",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Huancayo",
+      "País": "Perú",
+      "Departamento": "Junin",
+      "Provincia": "Huancayo",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "10306912",
+      "Domicilio Actual": "Jose Granda 382",
+      "Correo Electrónico": ["ambroxperu@hotmail.com"],
+      "Teléfonos": ["915166527"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "ROCIO DEL CARMEN",
+          "Apellidos": "DEL CAMPO RODRIGUEZ",
+          "Fecha de Nacimiento": "9/22/62",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "PERUANA",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08267379"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "JORGE ENRIQUE",
+          "Apellidos": "ABAD RIVAS",
+          "Fecha Nacimiento": "3/1/78",
+          "DNI": "10811910",
+          "Estado Civil": "CASADO"
+        },
+        {
+            "Nombres": "JANE MARIE ",
+            "Apellidos": "ABAD RIVAS",
+            "Fecha Nacimiento": "11/8/82",
+            "DNI": "41528733",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "BRENDA MARIA",
+            "Apellidos": "ABAD RIVAS",
+            "Fecha Nacimiento": "6/8/91",
+            "DNI": "47011536",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "FIORELLA ANDREA",
+            "Apellidos": "RUIZ DEL CAMPO",
+            "Fecha Nacimiento": "11/29/88",
+            "DNI": "45430011",
+            "Estado Civil": "SOLTERA"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "GERMAN ",
+          "Apellidos": "AMAYA",
+          "Fecha Nacimiento": "3/13/69",
+          "DNI": "15722913",
+          "Parentesco": "YIERNO"
+        },
+        {
+            "Nombres": "GABY",
+            "Apellidos": "TORRES ALVA",
+            "Fecha Nacimiento": "12/9/81",
+            "DNI": "40715662",
+            "Parentesco": "NUERA"
+        },
+        {
+            "Nombres": "IGNACIO",
+            "Apellidos": "ABAD TORRES",
+            "Fecha Nacimiento": "5/15/12",
+            "DNI": "77731249",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "NICOLAS",
+            "Apellidos": "ABAD TORRES",
+            "Fecha Nacimiento": "8/30/14",
+            "DNI": "78739498",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "REBECA",
+            "Apellidos": "AMAYA ABAD ",
+            "Fecha Nacimiento": "1/8/13",
+            "DNI": "77957831",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "TANIA",
+            "Apellidos": "AMAYA ABAD ",
+            "Fecha Nacimiento": "7/15/14",
+            "DNI": "78684844",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "ISAAC ",
+            "Apellidos": "AMAYA GASTALDO",
+            "Fecha Nacimiento": "8/16/00",
+            "DNI": "71562181",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "RICARDO",
+            "Apellidos": "ARCE VEGA",
+            "Fecha Nacimiento": "00/00/0000",
+            "DNI": "46329238",
+            "Parentesco": "YIERNO"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/12/20",
+      "Nombres": "Rodolfo Guido",
+      "Apellidos": "Abram Cavalerino",
+      "Fecha de Nacimiento": "10/6/44",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08800632",
+      "Domicilio Actual": "Las Campanillas 271- Urb.Camacho",
+      "Correo Electrónico": ["rodolfo.abram@gmail.com"],
+      "Teléfonos": ["4373318","999976148"],
+      "Ocupación": ["Jubilado"],
+      "Distrito": "Lima",
+      "Conyuge": [
+        {
+          "Nombres": "ROSA",
+          "Apellidos": "YONG CERNA",
+          "Fecha de Nacimiento": "5/29/45",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "PERÚ",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08800633"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "RODOLFO MICHAEL",
+          "Apellidos": "ABRAM YONG",
+          "Fecha Nacimiento": "1/1/73",
+          "DNI": "09869922",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "GINO RENATO",
+            "Apellidos": "ABRAM YONG",
+            "Fecha Nacimiento": "7/18/76",
+            "DNI": "10321664",
+            "Estado Civil": "CASADO"
+        },
+        {
+            "Nombres": "VANESSA KAREN",
+            "Apellidos": "ABRAM YONG",
+            "Fecha Nacimiento": "4/13/81",
+            "DNI": "40850926",
+            "Estado Civil": "CASADA"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "YANET",
+          "Apellidos": " AYBAR SALAZAR",
+          "Fecha Nacimiento": "8/10/77",
+          "DNI": "10612510",
+          "Parentesco": "ESPOSA"
+        },
+        {
+            "Nombres": "CESAR",
+            "Apellidos": "LIENDO VIDAL",
+            "Fecha Nacimiento": "4/14/82",
+            "DNI": "41437379",
+            "Parentesco": "ESPOSO"
+        },
+        {
+            "Nombres": "MICAELA",
+            "Apellidos": "ABRAM AYBAR",
+            "Fecha Nacimiento": "1/2/08",
+            "DNI": "61181083",
+            "Parentesco": "HIJA"
+        },
+        {
+            "Nombres": "ANDREA",
+            "Apellidos": "ABRAM AYBAR",
+            "Fecha Nacimiento": "7/12/10",
+            "DNI": "74336568",
+            "Parentesco": "HIJA"
+        },
+        {
+            "Nombres": "ANTONELLA",
+            "Apellidos": "LIENDO ABRAM",
+            "Fecha Nacimiento": "5/20/13",
+            "DNI": "78123214",
+            "Parentesco": "HIJA"
+        },
+        {
+            "Nombres": "VALENTINA",
+            "Apellidos": "LIENDO ABRAM",
+            "Fecha Nacimiento": "11/5/15",
+            "DNI": "79373880",
+            "Parentesco": "HIJA"
+        },
+        {
+            "Nombres": "MARIA PAZ",
+            "Apellidos": "LIENDO ABRAM",
+            "Fecha Nacimiento": "8/9/18",
+            "DNI": "90916178",
+            "Parentesco": "HIJA"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[
+        {
+          "Nombres": "LUIGI",
+          "Apellidos": "ABRAM COVI",
+          "Parentesco": "PADRE"
+        },
+        {
+            "Nombres": "CARMELA",
+            "Apellidos": "CAVALERINO LARA",
+            "Parentesco": "MADRE"
+        },
+        {
+            "Nombres": "FEDERICO",
+            "Apellidos": "YONG TING SUN",
+            "Parentesco": "SUEGRO"
+        },
+        {
+            "Nombres": "JULIA",
+            "Apellidos": "CERNA JARA",
+            "Parentesco": "SUEGRA"
+        }
+      ]
+  },
+  {   "Fecha Modificación": "10/23/2020",
+      "Nombres": "Lino Alfredo",
+      "Apellidos": "Abram Caballerino",
+      "Fecha de Nacimiento": "5/13/46",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09137017",
+      "Domicilio Actual": "Alameda Del Corregidor 375",
+      "Correo Electrónico": ["linoabramc@gmail.com"],
+      "Teléfonos": ["998075539"],
+      "Ocupación": ["Ingeniero"],
+      "Distrito": "La Molina",
+      "Conyuge":[
+        {
+          "Nombres": "Ana Virginia",
+          "Apellidos": "Pastor  Revoredo de Abram",
+          "Fecha de Nacimiento": "10/24/46",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "PERÚ",
+          "Departamento": "Cajamarca",
+          "Provincia": "Cajamarca",
+          "Documento de Identidad": "09136448"
+       }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Lino Aurelio",
+          "Apellidos": "Abram Pastor",
+          "Fecha Nacimiento": "13/13/73",
+          "DNI": " ",
+          "Estado Civil": "casado"
+        },
+        {
+            "Nombres": "Renzo Luis ",
+            "Apellidos": "Abram Pastor",
+            "Fecha Nacimiento": "1/2/76",
+            "DNI": " ",
+            "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Silvana Melissa",
+            "Apellidos": "Abram Pastor",
+            "Fecha Nacimiento": "2/14/82",
+            "DNI": " ",
+            "Estado Civil": "casado"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Carla",
+          "Apellidos": "Marcos de Abram",
+          "Fecha Nacimiento": "",
+          "DNI": "",
+          "Parentesco": "Hija politica"
+        },
+        {
+            "Nombres": "Pamela",
+            "Apellidos": "Cooper de Abram",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "Hija politica"
+        },
+        {
+            "Nombres": "Claudio",
+            "Apellidos": "Gamio Rosello",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "Hijo politico"
+        },
+        {
+            "Nombres": "lino Alfredo",
+            "Apellidos": "Abram Marcos",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Camila lucia",
+            "Apellidos": "Abram Marcos",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Valeria Adriana",
+            "Apellidos": "Abram Marcos",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nieta"
+        },
+        {
+            "Nombres": "Emiliana",
+            "Apellidos": "Abram Cooper",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nieta"
+        },
+        {
+            "Nombres": "Renzo y Alonso",
+            "Apellidos": "Abram Cooper",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nietos"
+        },
+        {
+            "Nombres": "Roberto y Salvador",
+            "Apellidos": "Gamio Abram",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "nietos"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/09/20",
+      "Nombres": "William Alberto",
+      "Apellidos": "Acuña Foppiano",
+      "Fecha de Nacimiento": "5/20/59",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08212251",
+      "Domicilio Actual": "Jr. Los Literatos Mza. B Lt. 4, Urb. Los Alamos De Monterrico ",
+      "Correo Electrónico": ["acunawilly@yahoo.com"],
+      "Teléfonos": ["996410678"],
+      "Ocupación": ["Independiente"],
+      "Distrito": "Santiago De Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Judy Elizabeth",
+          "Apellidos": "Sotillo Vargas",
+          "Fecha de Nacimiento": "6/12/60",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Lima",
+          "País": "PERÚ",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "08809055"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "GUILLERMO DANIEL",
+          "Apellidos": "ACUÑA SOTILLO",
+          "Fecha Nacimiento": "31524",
+          "DNI": "43533947",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "SERGIO ANDRES",
+            "Apellidos": "ACUÑA SOTILLO",
+            "Fecha Nacimiento": "1/18/91",
+            "DNI": "46719798",
+            "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "DANIEL RENATO",
+            "Apellidos": "ACUÑA SOTILLO",
+            "Fecha Nacimiento": "2/6/92",
+            "DNI": "46764071",
+            "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "CAMILA MARIA",
+            "Apellidos": "ACUÑA SOTILLO",
+            "Fecha Nacimiento": "5/23/96",
+            "DNI": "74746310",
+            "Estado Civil": "SOLTERA"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "VICTOR GUILLERMO",
+          "Apellidos": "ACUÑA GAYOSO",
+          "DNI": "08212253",
+          "Parentesco": "PADRE"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Jose",
+      "Apellidos": "Agois Barbier",
+      "Fecha de Nacimiento": "8/20/52",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09878496",
+      "Domicilio Actual": "Monteflor 615 Dpto 301 Chacarilla ",
+      "Correo Electrónico": ["jose.agois.b@gmail.com"],
+      "Teléfonos": ["995802152"],
+      "Ocupación": ["Consultor"],
+      "Distrito": "Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Gaby",
+          "Apellidos": "Segura de Agois",
+          "Fecha de Nacimiento": "6/10/53",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Peru",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "09878495"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Lissette",
+          "Apellidos": "Agois Segura",
+          "Fecha Nacimiento": "1/8/78",
+          "DNI": "10813185",
+          "Estado Civil": "casada"
+        },
+        {
+            "Nombres": "Fiorella",
+            "Apellidos": "Agois Segura",
+            "Fecha Nacimiento": "11/17/81",
+            "DNI": "41118614",
+            "Estado Civil": "casada"
+        },
+        {
+            "Nombres": "Natalie",
+            "Apellidos": "Agois Segura",
+            "Fecha Nacimiento": "1/18/85",
+            "DNI": "42827383",
+            "Estado Civil": "casada"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Javier ",
+          "Apellidos": "Vargas Madueño",
+          "Fecha Nacimiento": "12/17/77",
+          "DNI": "10611840",
+          "Parentesco": "yerno"
+        },
+        {
+            "Nombres": "Alejandro",
+            "Apellidos": "Vera Gamero",
+            "Fecha Nacimiento": "9/9/80",
+            "DNI": "40726881",
+            "Parentesco": "yerno"
+        },
+        {
+            "Nombres": "Giancarlo",
+            "Apellidos": "Vial Del Pozo",
+            "Fecha Nacimiento": "9/14/84",
+            "DNI": "42601299",
+            "Parentesco": "yerno"
+        },
+        {
+            "Nombres": "Santiago",
+            "Apellidos": "Vargas Agois",
+            "Fecha Nacimiento": "1/2/13",
+            "DNI": "77941601",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Rafaella",
+            "Apellidos": "Vargas Agois",
+            "Fecha Nacimiento": "4/10/15",
+            "DNI": "79066589",
+            "Parentesco": "nieta"
+        },
+        {
+            "Nombres": "Benjamin",
+            "Apellidos": "Vera Agois",
+            "Fecha Nacimiento": "7/11/16",
+            "DNI": "79761510",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Bianca",
+            "Apellidos": "Vial Agois",
+            "Fecha Nacimiento": "10/20/18",
+            "DNI": "91043862",
+            "Parentesco": "nieta"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/11/20",
+      "Nombres": "María Victoria",
+      "Apellidos": "Arévalo Prieto De Navarro",
+      "Fecha de Nacimiento": "5/14/44",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Viuda",
+      "Documento de Identidad": "07782091",
+      "Domicilio Actual": "Tupac Amaru 276  Dpto. 301",
+      "Correo Electrónico": ["mvarevalop@pucp.pe"],
+      "Teléfonos": ["992752152","9657985"],
+      "Ocupación": ["Psicóloga"],
+      "Distrito": "Miraflores",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "ADRIANA",
+          "Apellidos": "NVARRO AREVALO",
+          "Fecha Nacimiento": "11/13/78",
+          "DNI": "40081971",
+          "Estado Civil": "CASADA"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "CHRISTIAN AUGUSTO",
+          "Apellidos": "MORANTE MESONES",
+          "Fecha Nacimiento": "1/18/80",
+          "DNI": "40478893",
+          "Parentesco": "YERNO"
+        },
+        {
+            "Nombres": "SANTIAGO ALONSO",
+            "Apellidos": "MORANTE NAVARRO",
+            "Fecha Nacimiento": "8/18/05",
+            "DNI": "77216238",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "LUCAS ANTONIO",
+            "Apellidos": "MORANTE NAVARRO",
+            "Fecha Nacimiento": "7/23/08",
+            "DNI": "72062330",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "TOMÁS ALEJANDRO",
+            "Apellidos": "MORANTE NAVARRO",
+            "Fecha Nacimiento": "5/12/11",
+            "DNI": "63306521",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "MARIA ELENA",
+            "Apellidos": "ARÉVALO PRIETO",
+            "Fecha Nacimiento": "9/11/49",
+            "DNI": "07863003",
+            "Parentesco": "HERMANA"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[
+        {
+          "Nombres": "RAFAEL",
+          "Apellidos": "NAVARRO CUEVA",
+          "Fecha Nacimiento": "5/9/41",
+          "DNI": "779324191",
+          "Parentesco": "Conyuge"
+        }
+      ]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Godofredo Victor",
+      "Apellidos": "Barrios Fuentes",
+      "Fecha de Nacimiento": "8/11/45",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Arequipa",
+      "Provincia": "Arequipa",
+      "Estado Civil": "Viudo",
+      "Documento de Identidad": "08810403",
+      "Domicilio Actual": "Avenida Del Sur 190  Dpt 402",
+      "Correo Electrónico": ["godobarrios08@gmail.com"],
+      "Teléfonos": ["999442546"],
+      "Ocupación": ["Ingeniero"],
+      "Distrito": "Surco",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "Ronie Godofredo",
+          "Apellidos": "Barrios Da Fieno",
+          "Fecha Nacimiento": "6/14/76",
+          "DNI": "10307455",
+          "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Katherine Isela",
+            "Apellidos": "Barrios Da Fieno",
+            "Fecha Nacimiento": "2/4/81",
+            "DNI": "40812824",
+            "Estado Civil": "Divorciada"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/12/20",
+      "Nombres": "Adolfo Enrique",
+      "Apellidos": "Beltran Davila",
+      "Fecha de Nacimiento": "5/1/44",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Arequipa",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08799753",
+      "Domicilio Actual": "Pasaje Virreinato 196, Monterrico",
+      "Correo Electrónico": ["kbeltrand@gmail.com"],
+      "Teléfonos": ["993517671"],
+      "Ocupación": ["Jubilado"],
+      "Distrito": "Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Maria Elena",
+          "Apellidos": "Cornejo Meneses",
+          "Fecha de Nacimiento": "4/28/47",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Peru",
+          "Departamento": "Arequipa",
+          "Provincia": "Arequipa",
+          "Documento de Identidad": "08799751"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Michelle",
+          "Apellidos": "Beltran Cornejo",
+          "Fecha Nacimiento": "5/15/68",
+          "DNI": "09379219",
+          "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "Enrique",
+            "Apellidos": "Beltran Cornejo",
+            "Fecha Nacimiento": "7/23/72",
+            "DNI": "09867858",
+            "Estado Civil": "CASADO"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Jorge Luis ",
+          "Apellidos": "Fernandez Fontana",
+          "Fecha Nacimiento": "10/22/63",
+          "DNI": "0821762",
+          "Parentesco": "yerno"
+        },
+        {
+            "Nombres": "Valentina",
+            "Apellidos": "Fernandez Beltran",
+            "Fecha Nacimiento": "4/19/04",
+            "DNI": "73142691",
+            "Parentesco": "nieta"
+        },
+        {
+            "Nombres": "Ariana",
+            "Apellidos": "Fernandez Beltran",
+            "Fecha Nacimiento": "4/24/09",
+            "DNI": "73285584",
+            "Parentesco": "nieta"
+        },
+        {
+            "Nombres": "Carol Noemí",
+            "Apellidos": "Palma Cayro",
+            "Fecha Nacimiento": "9/22/82",
+            "DNI": "41502870",
+            "Parentesco": "nuera"
+        },
+        {
+            "Nombres": "Adrián",
+            "Apellidos": "Beltran Noriega",
+            "Fecha Nacimiento": "7/30/03",
+            "DNI": "74471344",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Leonardo",
+            "Apellidos": "Beltran Noriega",
+            "Fecha Nacimiento": "6/16/08",
+            "DNI": "72336202",
+            "Parentesco": "nieto"
+        },
+        {
+            "Nombres": "Salvador",
+            "Apellidos": "Beltran Palma",
+            "Fecha Nacimiento": "1/29/16",
+            "DNI": "79525282",
+            "Parentesco": "nieto"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Jose",
+      "Apellidos": "Bravo Quintana",
+      "Fecha de Nacimiento": "12/8/41",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Viudo",
+      "Documento de Identidad": "08230085",
+      "Domicilio Actual": "Las Redes 125 Las Lagunas La Molina",
+      "Correo Electrónico": ["jmbravoq@hotmail.com"],
+      "Teléfonos": ["999343915"],
+      "Ocupación": [""],
+      "Distrito": "La Molina",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "Maria Jose",
+          "Apellidos": "Bravo Calambrogio",
+          "Fecha Nacimiento": "5/9/80",
+          "DNI": "40584669",
+          "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Sergio",
+            "Apellidos": "Bravo Calambrogio",
+            "Fecha Nacimiento": "4/19/74",
+            "DNI": "09996245",
+            "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Renzo",
+            "Apellidos": "Bravo Calambrogio",
+            "Fecha Nacimiento": "10/16/71",
+            "Estado Civil": "Casado"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Raul",
+          "Apellidos": "Fosca de las Casas",
+          "Fecha Nacimiento": "11/25/76",
+          "DNI": "10552552",
+          "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Daniela",
+            "Apellidos": "Fosca Bravo",
+            "Fecha Nacimiento": "4/7/14",
+            "DNI": "78533740",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Luciana",
+            "Apellidos": "Fosca Bravo",
+            "Fecha Nacimiento": "5/3/07",
+            "DNI": "90212348",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Carolina",
+            "Apellidos": "Basulto Garcia",
+            "Fecha Nacimiento": "4/16/74",
+            "DNI": "10061698",
+            "Parentesco": "Esposa"
+        },
+        {
+            "Nombres": "Valentina",
+            "Apellidos": "Bravo Basulto",
+            "Fecha Nacimiento": "2/16/03",
+            "DNI": "74526261",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Jimena",
+            "Apellidos": "Riera Diaz",
+            "Fecha Nacimiento": "10/16/71",
+            "Parentesco": "Esposa"
+        },
+        {
+            "Nombres": "Anika",
+            "Apellidos": "Bravo Riera",
+            "Fecha Nacimiento": "11/4/13",
+            "Parentesco": "Hija"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Oscar Job",
+      "Apellidos": "Bringas Silva",
+      "Fecha de Nacimiento": "5/10/37",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "07277929",
+      "Domicilio Actual": "Av. Del Ejército 1057",
+      "Correo Electrónico": ["obringas@acosaperu.com"],
+      "Teléfonos": ["2645256","956611818"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "Magdalena Del Mar",
+      "Conyuge":[
+        {
+          "Nombres": "Carmen Elizabeth",
+          "Apellidos": "Putnam Rojas",
+          "Fecha de Nacimiento": "12/24/40",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "07277930"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Mariana Elizabeth",
+          "Apellidos": "Bringas Putnam",
+          "Fecha Nacimiento": " 4/1/1967",
+          "DNI": "06367743",
+          "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Rossana Angélica",
+            "Apellidos": "Bringas Putnam",
+            "Fecha Nacimiento": "2/21/70",
+            "DNI": "06362946",
+            "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Liliana Yvonne",
+            "Apellidos": "Bringas Putnam",
+            "Fecha Nacimiento": "2/8/71",
+            "DNI": "06363637",
+            "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Susana Madelaine",
+            "Apellidos": "Bringas Putnam",
+            "Fecha Nacimiento": "5/12/79",
+            "DNI": "40583637",
+            "Estado Civil": "Casada"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Ignacio ",
+          "Apellidos": "Sánchez Ojeda",
+          "Fecha Nacimiento": "10/17/69",
+          "DNI": "000156518",
+          "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Alejandro ",
+            "Apellidos": "Fort Castro",
+            "Fecha Nacimiento": "7/22/69",
+            "DNI": "09383961",
+            "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Humberto ",
+            "Apellidos": "Bogani Jorge",
+            "Fecha Nacimiento": "3/5/78",
+            "DNI": "",
+            "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Ronald ",
+            "Apellidos": "Soldevilla García",
+            "Fecha Nacimiento": "1/27/70",
+            "DNI": "06663881",
+            "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Ignacio Javier ",
+            "Apellidos": "Sánchez Bringas",
+            "Fecha Nacimiento": "4/20/99",
+            "DNI": "74589077",
+            "Parentesco": "Hijo"
+        },
+        {
+            "Nombres": "Felipe Juan ",
+            "Apellidos": "Sánchez Bringas",
+            "Fecha Nacimiento": "6/28/03",
+            "DNI": "74589079",
+            "Parentesco": "Hijo"
+        },
+        {
+            "Nombres": "Nicole ",
+            "Apellidos": "Fort Bringas",
+            "Fecha Nacimiento": "11/30/97",
+            "DNI": "",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Vanessa ",
+            "Apellidos": "Fort Bringas",
+            "Fecha Nacimiento": "1/6/01",
+            "DNI": "",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Camila Isabel ",
+            "Apellidos": "Bogani Bringas",
+            "Fecha Nacimiento": "10/11/01",
+            "DNI": "",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Marcelo Andres ",
+            "Apellidos": "Bogani Bringas",
+            "Fecha Nacimiento": "11/17/04",
+            "DNI": "",
+            "Parentesco": "Hijo"
+        },
+        {
+            "Nombres": "Gabriel Gustavo ",
+            "Apellidos": "Montells Bringas",
+            "Fecha Nacimiento": "12/7/03",
+            "DNI": "07519920",
+            "Parentesco": "Hijo"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "11/10/20",
+      "Nombres": "Alberto Martin ",
+      "Apellidos": "Buonamici Saco",
+      "Fecha de Nacimiento": "1/5/64",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Callao",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "40046535",
+      "Domicilio Actual": "Alameda San Hermenegildo 248, La Encantada",
+      "Correo Electrónico": ["abuonamici@soltec-corp.com"],
+      "Teléfonos": ["998101641"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "Chorrillos",
+      "Conyuge":[
+        {
+          "Nombres": "MARLENE RITA",
+          "Apellidos": "RAYGADA FRANK",
+          "Fecha de Nacimiento": "1/4/65",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "",
+          "País": "PERU",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "09296209"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "ALBERTO",
+          "Apellidos": "BUONAMICI RAYGADA",
+          "Fecha Nacimiento": "3/12/97",
+          "DNI": "74570211",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "ALESSANDRO",
+            "Apellidos": "BUONAMICI RAYGADA",
+            "Fecha Nacimiento": "4/17/99",
+            "DNI": "75387948",
+            "Estado Civil": "SOLTERO"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "ALBERTO JOSE",
+          "Apellidos": "BUONAMICI SILVESTRI",
+          "Fecha Nacimiento": "3/7/36",
+          "DNI": "9391405",
+          "Parentesco": "PAPA"
+        },
+        {
+            "Nombres": "BLANCA MARIA DEL CARMEN",
+            "Apellidos": "SACO FARFAN",
+            "Fecha Nacimiento": "2/5/42",
+            "DNI": "8800817",
+            "Parentesco": "MAMA"
+        },
+        {
+            "Nombres": "LISETTE MARLENE",
+            "Apellidos": "FRANK MARQUEZ",
+            "Fecha Nacimiento": "9/7/41",
+            "DNI": "9157237",
+            "Parentesco": "MAMA"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/14/20",
+      "Nombres": "Armando Luis Augusto",
+      "Apellidos": "Cáceres Valderrama",
+      "Fecha de Nacimiento": "10/19/56",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "06468350",
+      "Domicilio Actual": "Jirón Montemar 251-C Chacarilla Del Estanque",
+      "Correo Electrónico": ["acaceres@pucp.pe"],
+      "Teléfonos": ["998678895"],
+      "Ocupación": ["Economista"],
+      "Distrito": "Santiago De Surco",
+      "Conyuge":[
+        {
+          "Nombres": "María del Pilar",
+          "Apellidos": "Cebrecos González",
+          "Fecha de Nacimiento": "8/14/56",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "06468351"
+       }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Estella María",
+          "Apellidos": "Cáceres Cebrecos",
+          "Fecha Nacimiento": "9/11/91",
+          "DNI": "71504765",
+          "Estado Civil": "Soltera"
+        },
+        {
+            "Nombres": "Ana Lucía",
+            "Apellidos": "Cáceres Cebrecos",
+            "Fecha Nacimiento": "4/15/93",
+            "DNI": "71612498",
+            "Estado Civil": "Soltera"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "Milena",
+          "Apellidos": "Valderrama del Castillo de Cáceres",
+          "Fecha Nacimiento": "10/6/27",
+          "DNI": "08182724",
+          "Parentesco": "Madre"
+        },
+        {
+            "Nombres": "Isidoro",
+            "Apellidos": "Cebrecos Revilla",
+            "Fecha Nacimiento": "1/2/31",
+            "DNI": "000198598",
+            "Parentesco": "Suegro"
+        },
+        {
+            "Nombres": "Luisa",
+            "Apellidos": "González de Cebrecos",
+            "Fecha Nacimiento": "6/21/31",
+            "DNI": "000198326",
+            "Parentesco": "Suegra"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/22/20",
+      "Nombres": "Carlos Emilio Pedro",
+      "Apellidos": "Choy Koosau",
+      "Fecha de Nacimiento": "2/18/61",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09178431",
+      "Domicilio Actual": "El Manantial 239 La Planicie  La Molina",
+      "Correo Electrónico": ["cchoy@cementosinka.com.pe"],
+      "Teléfonos": ["946528090"],
+      "Ocupación": ["Industrial"],
+      "Distrito": "La Molina",
+      "Conyuge":[
+        {
+          "Nombres": "Pamela Andrea",
+          "Apellidos": "Pavez Giusti",
+          "Fecha de Nacimiento": "1/14/66",
+          "Nacionalidad": "Chilena",
+          "Lugar de Nacimiento": "",
+          "País": "Chile",
+          "Departamento": "Santiago",
+          "Documento de Identidad": "C.ex 000126121"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Carlos Alberto",
+          "Apellidos": "Choy Pavez",
+          "Fecha Nacimiento": "2/25/85",
+          "DNI": "42940514",
+          "Estado Civil": "casado"
+        },
+        {
+          "Nombres": "Francisco Ignacio",
+          "Apellidos": "Choy Pavez",
+          "Fecha Nacimiento": "4/9/88",
+          "DNI": "45110136",
+          "Estado Civil": "soltero"
+        },
+        {
+          "Nombres": "Diego Ignacio",
+          "Apellidos": "Choy Pavez",
+          "Fecha Nacimiento": "9/3/97",
+          "DNI": "48140475",
+          "Estado Civil": "casado"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Maria Alessandra Franchesa",
+          "Apellidos": "Farris de choy",
+          "Fecha Nacimiento": "2/19/92",
+          "DNI": "47448479",
+          "Parentesco": "esposa"
+        },
+        {
+          "Nombres": "Julia",
+          "Apellidos": "Anzer",
+          "Fecha Nacimiento": "4/9/95",
+          "DNI": "",
+          "Parentesco": "novia"
+        }
+      ],
+      "Padres y suegros":[
+        {
+          "Nombres": "Elsa ",
+          "Apellidos": "koosau de Choy",
+          "Fecha Nacimiento": "4/17/37",
+          "DNI": "7273020",
+          "Parentesco": "madre"
+        },
+        {
+          "Nombres": "Francisco",
+          "Apellidos": "Sagasti Hoshauler",
+          "Fecha Nacimiento": "10/10/44",
+          "DNI": "7274281",
+          "Parentesco": "suegro"
+        },
+        {
+          "Nombres": "Leonor",
+          "Apellidos": "Giusti de Sagasti",
+          "Fecha Nacimiento": "9/6/39",
+          "DNI": "7272569",
+          "Parentesco": "suegra"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/11/20",
+      "Nombres": "Manuel Ivan",
+      "Apellidos": "Davila Burgos",
+      "Fecha de Nacimiento": "6/1/49",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09165729",
+      "Domicilio Actual": "La Conquista 209 Dpto 303 Monterrico",
+      "Correo Electrónico": ["mdavila@friopan.com"],
+      "Teléfonos": ["998327622"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "Santiago De Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Elizabeth",
+          "Apellidos": "Salazar de Dávila",
+          "Fecha de Nacimiento": "11/4/52",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08186202"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Daniela",
+          "Apellidos": "Davila Salazar",
+          "Fecha Nacimiento": "12/27/79",
+          "DNI": "40450321",
+          "Estado Civil": "Soltera"
+        },
+        {
+            "Nombres": "Diego",
+            "Apellidos": "Davila Salazar",
+            "Fecha Nacimiento": "4/16/84",
+            "DNI": "42379330",
+            "Estado Civil": "Soltero"
+        },
+        {
+            "Nombres": "María Belén",
+            "Apellidos": "Davila Salazar",
+            "Fecha Nacimiento": "2/21/89",
+            "DNI": "70451308",
+            "Estado Civil": "Soltera"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Nicolas",
+          "Apellidos": "Lancho Dávila",
+          "Fecha Nacimiento": "9/29/00",
+          "DNI": "77207893",
+          "Parentesco": "HIJO DE DANIELA"
+        },
+        {
+            "Nombres": "Matteo",
+            "Apellidos": "Lancho Dávila",
+            "Fecha Nacimiento": "12/20/06",
+            "DNI": "70593440",
+            "Parentesco": "HIJO DE DANIELA"
+        },
+        {
+            "Nombres": "Luciana",
+            "Apellidos": "Gamio Puente",
+            "Fecha Nacimiento": "12/27/86",
+            "DNI": "44079462",
+            "Parentesco": "NOVIA DE DIEGO"
+        },
+        {
+            "Nombres": "Mifleh",
+            "Apellidos": "Ahmad El Amer",
+            "Fecha Nacimiento": "2/6/85",
+            "DNI": "42808844",
+            "Parentesco": "NOVIO DE MARÍA BELÉN"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/11/20",
+      "Nombres": "Julio Jacobo Jose",
+      "Apellidos": "De La Piedra Del Rio",
+      "Fecha de Nacimiento": "12/13/53",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08231845",
+      "Domicilio Actual": "Blas Cerdeña 395 Depto 601 Lima 27",
+      "Correo Electrónico": ["jjjdelapiedra@gmail.com"],
+      "Teléfonos": ["999059675"],
+      "Ocupación": ["Ingeniero Civil"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "Elisa Veronica",
+          "Apellidos": "Quelle Gismondi",
+          "Fecha de Nacimiento": "1/26/54",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "Peru",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "08231845"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Julio Manuel",
+          "Apellidos": "de la Piedra Quelle",
+          "Fecha Nacimiento": "8/19/80",
+          "DNI": "40536489",
+          "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Mariola del socorro",
+            "Apellidos": "de la Piedra Quelle",
+            "Fecha Nacimiento": "4/24/83",
+            "DNI": "41771323",
+            "Estado Civil": "Conviviente"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Camila ",
+          "Apellidos": "Ferreyra Rodriguez Larrain",
+          "Fecha Nacimiento": " ",
+          "DNI": " ",
+          "Parentesco": "Nuera"
+        },
+        {
+            "Nombres": "Camilo",
+            "Apellidos": "Huertas Umaña",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Yerno"
+        },
+        {
+            "Nombres": "Julio",
+            "Apellidos": "de la Piedra Ferreyra",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Martin",
+            "Apellidos": "de la Piedra Ferreyra",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/21/20",
+      "Nombres": "Rosina Lyliana",
+      "Apellidos": "De Vettori Rojas De Ongaro",
+      "Fecha de Nacimiento": "9/17/62",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Tumbes",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casada",
+      "Documento de Identidad": "07805097",
+      "Domicilio Actual": "Jr. Daniel Alcides Carrión 224",
+      "Correo Electrónico": ["rodevettori@hotmail.com"],
+      "Teléfonos": ["957288173"],
+      "Ocupación": ["Jubilada"],
+      "Distrito": "San Borja",
+      "Conyuge":[
+        {
+          "Nombres": "Angel Gustavo",
+          "Apellidos": "Ongaro Estrada",
+          "Fecha de Nacimiento": "7/23/63",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Lima",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "10333579"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "María Lyliana",
+          "Apellidos": "Ongaro De Vettori",
+          "Fecha Nacimiento": "5/4/96",
+          "DNI": "74149188",
+          "Estado Civil": "Solera"
+        },
+        {
+            "Nombres": "Angello Ongaro",
+            "Apellidos": "Ongaro De Vettori",
+            "Fecha Nacimiento": "11/9/97",
+            "DNI": "74149191",
+            "Estado Civil": "Soltero"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/9/20",
+      "Nombres": "Romulo Vicente",
+      "Apellidos": "Del Carpio Castañeda",
+      "Fecha de Nacimiento": "4/19/47",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "",
+      "Provincia": "Cusco",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09751773",
+      "Domicilio Actual": "Ca. Kibur 245 Rinconada Del Lago",
+      "Correo Electrónico": ["rdelcarpio@koketa.com","marledelcarpio@koketa.com"],
+      "Teléfonos": ["4792790","997533238"],
+      "Ocupación": ["Ingeniero","Empresario"],
+      "Distrito": "La Molina",
+      "Conyuge":[
+        {
+          "Nombres": "Marlene",
+          "Apellidos": "Gastelu de del Carpio",
+          "Fecha de Nacimiento": "11/11/58",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Lima",
+          "País": "PERÚ",
+          "Departamento": "",
+          "Provincia": "",
+          "Documento de Identidad": "09751744"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "CLAUDIA",
+          "Apellidos": "DEL CARPIO GASTELU",
+          "Fecha Nacimiento": "7/19/79",
+          "DNI": "40221545",
+          "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "MARIELA",
+            "Apellidos": "DEL CARPIO GASTELU",
+            "Fecha Nacimiento": "10/17/82",
+            "DNI": "41510314",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "JUAN DANIEL",
+            "Apellidos": "DEL CARPIO GASTELU",
+            "Fecha Nacimiento": "4/4/86",
+            "DNI": "43542467",
+            "Estado Civil": "CASADO"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "ITALO",
+          "Apellidos": "ZOLEZZI VELASCO",
+          "Fecha Nacimiento": "11/16/73",
+          "DNI": "06469579",
+          "Parentesco": "ESPOSO"
+        },
+        {
+            "Nombres": "DIEGO ",
+            "Apellidos": "VERA TUDELA QUINCOT",
+            "Fecha Nacimiento": "1/27/89",
+            "DNI": "43653925",
+            "Parentesco": "ESPOSO"
+        },
+        {
+            "Nombres": "MARIA CLAUDIA",
+            "Apellidos": "GAGO CARRILLO",
+            "Fecha Nacimiento": "4/19/87",
+            "DNI": "44211016",
+            "Parentesco": "ESPOSA"
+        },
+        {
+            "Nombres": "ADRIANO",
+            "Apellidos": "ZOLEZZI DEL CARPIO",
+            "Fecha Nacimiento": "3/10/10",
+            "DNI": "74108225",
+            "Parentesco": "HIJO"
+        },
+        {
+            "Nombres": "ALESSANDRO",
+            "Apellidos": "ZOLEZZI DEL CARPIO",
+            "Fecha Nacimiento": "3/7/12",
+            "DNI": "77609003",
+            "Parentesco": "HIJO"
+        },
+        {
+            "Nombres": "CRISTOBAL",
+            "Apellidos": "VERA TUDELA DEL CARPIO",
+            "Fecha Nacimiento": "10/8/15",
+            "DNI": "79330642",
+            "Parentesco": "HIJO"
+        },
+        {
+            "Nombres": "SALVADOR",
+            "Apellidos": "VERA TUDELA DEL CARPIO",
+            "Fecha Nacimiento": "12/6/18",
+            "DNI": "91086205",
+            "Parentesco": "HIJO"
+        },
+        {
+            "Nombres": "LEONOR",
+            "Apellidos": "DEL CARPIO GAGO",
+            "Fecha Nacimiento": "6/21/20",
+            "DNI": " ",
+            "Parentesco": "HIJA"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/11/20",
+      "Nombres": "Jean Paul ",
+      "Apellidos": "Donoyan Almandoz",
+      "Fecha de Nacimiento": "12/19/64",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "10005820",
+      "Domicilio Actual": "Malecón De La Marina 590, Dpto 1501",
+      "Correo Electrónico": ["jpdonoyan@hotmail.com"],
+      "Teléfonos": ["960717992"],
+      "Ocupación": ["Consultor Independiente"],
+      "Distrito": "Miraflores",
+      "Conyuge":[
+        {
+          "Nombres": "María Susana",
+          "Apellidos": "Brandán Varea de Donoyan",
+          "Fecha de Nacimiento": "5/24/64",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Lima",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "10005821"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Vanessa Susana",
+          "Apellidos": "Donoyan Brandán",
+          "Fecha Nacimiento": "6/12/93",
+          "DNI": "71407587",
+          "Estado Civil": "Soltera"
+        },
+        {
+            "Nombres": "André Daniel",
+            "Apellidos": "Donoyan Brandán",
+            "Fecha Nacimiento": "3/30/95",
+            "DNI": "71407562",
+            "Estado Civil": "Soltero"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "Alicia Inés",
+          "Apellidos": "Almandoz Toro Vda de Donoyan",
+          "Fecha Nacimiento": "3/15/32",
+          "DNI": "10283755",
+          "Parentesco": "Madre"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/23/20",
+      "Nombres": "Gonzalo Fernando ",
+      "Apellidos": "Door Cabezas",
+      "Fecha de Nacimiento": "4/24/56",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08215419",
+      "Domicilio Actual": "",
+      "Correo Electrónico": ["gonzalodoor@hotmail.com"],
+      "Teléfonos": ["52155 43675883"],
+      "Ocupación": "Economista",
+      "Distrito": "",
+      "Conyuge":[
+        {
+          "Nombres": "Rosa Haydeé",
+          "Apellidos": "Icochea D'Arrigo",
+          "Fecha de Nacimiento": "",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Cusco",
+          "País": "Perú",
+          "Departamento": "Cusco",
+          "Provincia": "Santiago",
+          "Documento de Identidad": "08215418"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Denise Rosa",
+          "Apellidos": "Door Icochea",
+          "Fecha Nacimiento": "3/17/81",
+          "DNI": "40871384",
+          "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Alexandra",
+            "Apellidos": "Door Icochea",
+            "Fecha Nacimiento": "10/22/83",
+            "DNI": "42065441",
+            "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Michelle",
+            "Apellidos": "Door Icochea",
+            "Fecha Nacimiento": "6/12/95",
+            "DNI": "74762791",
+            "Estado Civil": "Soltera"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Fabio",
+          "Apellidos": "Zveibil ",
+          "Fecha Nacimiento": "9/12/82",
+          "DNI": " ",
+          "Parentesco": "Yerno"
+        },
+        {
+            "Nombres": "Luca",
+            "Apellidos": "Zveibil Door",
+            "Fecha Nacimiento": "5/19/14",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Daniel",
+            "Apellidos": "Zveibil Door",
+            "Fecha Nacimiento": "10/18/16",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Ken",
+            "Apellidos": "Fairleigh",
+            "Fecha Nacimiento": "8/12/88",
+            "DNI": " ",
+            "Parentesco": "Yerno"
+        },
+        {
+            "Nombres": "Ken Door",
+            "Apellidos": "Fairleigh",
+            "Fecha Nacimiento": "8/16/19",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        }
+      ],
+      "Padres y suegros":[
+        {
+          "Nombres": "Micaela",
+          "Apellidos": "de Door",
+          "Fecha Nacimiento": " ",
+          "DNI": " ",
+          "Parentesco": "Madre"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/22/20",
+      "Nombres": "Rafael Juan ",
+      "Apellidos": "Escardo Cuglievan",
+      "Fecha de Nacimiento": "5/18/64",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08232866",
+      "Domicilio Actual": "Calle Los Recuerdos 436 Urb. Chacarilla ",
+      "Correo Electrónico": ["gerencia@cottonmix.com.pe"],
+      "Teléfonos": ["943681084"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "San Borja",
+      "Conyuge":[
+        {
+          "Nombres": "MARIA DEL ROSARIO",
+          "Apellidos": "ESPEJO OTERO DE ESCARDO",
+          "Fecha de Nacimiento": "5/11/65",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "PERU",
+          "País": "PERU",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "07792216"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "RAFAEL",
+          "Apellidos": "ESCARDO ESPEJO",
+          "Fecha Nacimiento": "3/1/91",
+          "DNI": "70233208",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "ADRIAN NICOLAS ",
+            "Apellidos": "ESCARDO ESPEJO",
+            "Fecha Nacimiento": "9/17/98",
+            "DNI": "70233209",
+            "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "MAURICIO",
+            "Apellidos": "ESCARDO ESPEJO",
+            "Fecha Nacimiento": "4/27/95",
+            "DNI": "70233210",
+            "Estado Civil": "SOLTERO"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "TERESA",
+          "Apellidos": "CUGLIEVAN TRINT",
+          "DNI": "09337593",
+          "Parentesco": "MADRE"
+        },
+        {
+            "Nombres": "MARIA ALBINA",
+            "Apellidos": "OTERO RAMOS",
+            "DNI": "06447121",
+            "Parentesco": "SUEGRA"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "11/15/20",
+      "Nombres": "José Javier",
+      "Apellidos": "Filomeno Edwards",
+      "Fecha de Nacimiento": "12/9/46",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lambayeque",
+      "Provincia": "Chiclayo",
+      "Estado Civil": "Divorciado",
+      "Documento de Identidad": "07808193",
+      "Domicilio Actual": "Alberto Lynch 133",
+      "Correo Electrónico": ["jfilomeno@entorno.net.pe"],
+      "Teléfonos": ["998101281"],
+      "Ocupación": ["Arquitecto"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "CARMEN MARÍA",
+          "Apellidos": "PASTOR PORRAS",
+          "Fecha de Nacimiento": "10/1/51",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "PERÚ",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08243056"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "JAVIER ENRIQUE",
+          "Apellidos": "FILOMENO TEJEDA",
+          "Fecha Nacimiento": "9/5/75",
+          "DNI": " ",
+          "Estado Civil": "CASADO"
+        },
+        {
+            "Nombres": "CARLA TATIANA",
+            "Apellidos": "FILOMENO TEJEDA",
+            "Fecha Nacimiento": "6/29/80",
+            "DNI": " ",
+            "Estado Civil": "SOLTERA"
+        },
+        {
+            "Nombres": "ANDREA",
+            "Apellidos": "FILOMENO TEJEDA",
+            "Fecha Nacimiento": "12/11/81",
+            "DNI": " ",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "ANDREA",
+            "Apellidos": "PALMA PASTOR",
+            "Fecha Nacimiento": "11/15/77",
+            "DNI": " ",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "DANIELA",
+            "Apellidos": "PALMA PASTOR",
+            "Fecha Nacimiento": "8/23/81",
+            "DNI": " ",
+            "Estado Civil": "CASADA"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "MATÍAS",
+          "Apellidos": "FILOMENO GARCÍA",
+          "Fecha Nacimiento": "7/23/11",
+          "DNI": " ",
+          "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "VALENTINA",
+            "Apellidos": "CAMACHO FILOMENO",
+            "Fecha Nacimiento": "7/12/12",
+            "DNI": " ",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "JULIETA",
+            "Apellidos": "CAMACHO FILOMENO",
+            "Fecha Nacimiento": "6/26/14",
+            "DNI": " ",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "JAKOV",
+            "Apellidos": "BOZANIC PALMA",
+            "Fecha Nacimiento": "8/20/13",
+            "DNI": " ",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "LUKA",
+            "Apellidos": "BOZANIC PALMA",
+            "Fecha Nacimiento": "4/11/16",
+            "DNI": " ",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "ALEIX",
+            "Apellidos": "SCHONHOFER PALMA",
+            "Fecha Nacimiento": "1/17/10",
+            "DNI": " ",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "LAIA",
+            "Apellidos": "SCHONHOFER PALMA",
+            "Fecha Nacimiento": "3/1/13",
+            "DNI": " ",
+            "Parentesco": "NIETA"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/22/20",
+      "Nombres": "Erick Walter Jose",
+      "Apellidos": "Funcke Figueroa",
+      "Fecha de Nacimiento": "7/26/54",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "10321648",
+      "Domicilio Actual": "Alameda Monte Umbroso 418 Dpt. 302",
+      "Correo Electrónico": ["efunckef@msn.com"],
+      "Teléfonos": ["998676364","3727481"],
+      "Ocupación": ["Empresario"],
+      "Distrito": "Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Miryam Pilar",
+          "Apellidos": "Castro Villanueva de Funcke",
+          "Fecha de Nacimiento": "11/12/55",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "Lima",
+          "País": "Peruana",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "10321978"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Erick",
+          "Apellidos": "Funcke Castro",
+          "Fecha Nacimiento": "12/6/78",
+          "DNI": "40022159",
+          "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Dieter",
+            "Apellidos": "Funcke Castro",
+            "Fecha Nacimiento": "2/8/80",
+            "DNI": "40473263",
+            "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Liesel",
+            "Apellidos": "Funcke Castro",
+            "Fecha Nacimiento": "3/18/87",
+            "DNI": "44130153",
+            "Estado Civil": "Casado"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Nicholas Wilhelm",
+          "Apellidos": "Funcke Sotomayor",
+          "Fecha Nacimiento": "11/2/05",
+          "DNI": " ",
+          "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Mathias",
+            "Apellidos": "Funcke Bueno",
+            "Fecha Nacimiento": "5/5/08",
+            "DNI": "71364079",
+            "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Sebastian",
+            "Apellidos": "Funcke Sotomayor",
+            "Fecha Nacimiento": "9/4/09",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+        },
+        {
+            "Nombres": "Camille",
+            "Apellidos": "Funcke Bueno",
+            "Fecha Nacimiento": "4/7/12",
+            "DNI": "77632645",
+            "Parentesco": "Nieta"
+        },
+        {
+            "Nombres": "Fernanda",
+            "Apellidos": "Zapater Funcke",
+            "Fecha Nacimiento": "2/3/17",
+            "DNI": " ",
+            "Parentesco": "Nieta"
+        },
+        {
+            "Nombres": "Michaela",
+            "Apellidos": "Zapater Funcke",
+            "Fecha Nacimiento": "9/26/19",
+            "DNI": " ",
+            "Parentesco": "Nieta"
+        },
+        {
+            "Nombres": "Jennifer Milagros",
+            "Apellidos": "Sotomayor de Funcke",
+            "Fecha Nacimiento": "10/1/79",
+            "DNI": "40399584",
+            "Parentesco": "Nuera"
+        },
+        {
+            "Nombres": "Romina ",
+            "Apellidos": "Bueno de Funcke",
+            "Fecha Nacimiento": "6/16/80",
+            "DNI": "40634117",
+            "Parentesco": "Nuera"
+        },
+        {
+            "Nombres": "Jorge Marcelo",
+            "Apellidos": "Zapater Pereyra",
+            "Fecha Nacimiento": "7/11/86",
+            "DNI": "43683518",
+            "Parentesco": "Yerno"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/17/20",
+      "Nombres": "Hector Raúl",
+      "Apellidos": "García Bejar",
+      "Fecha de Nacimiento": "6/25/45",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Cusco",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08256115",
+      "Domicilio Actual": "Monte Umbroso 348 Chacarilla Surco",
+      "Correo Electrónico": ["hgarcia@modasa.com.pe"],
+      "Teléfonos": ["998139581"],
+      "Ocupación": ["Ingeniero"],
+      "Distrito": "Surco",
+      "Conyuge":[
+        {
+          "Nombres": "Maria Lourdes",
+          "Apellidos": "Ugaz Sanchez Moreno",
+          "Fecha de Nacimiento": "10/21/54",
+          "Nacionalidad": "Peruana",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "08256114"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Gabriela Maria",
+          "Apellidos": "García Ugaz",
+          "Fecha Nacimiento": "9/28/85",
+          "DNI": "43224641",
+          "Estado Civil": "soltera"
+        },
+        {
+            "Nombres": "Carolina",
+            "Apellidos": "García Ugaz",
+            "Fecha Nacimiento": "6/6/87",
+            "DNI": "44347309",
+            "Estado Civil": "soltera"
+        },
+        {
+            "Nombres": "Beatriz",
+            "Apellidos": "García Ugaz",
+            "Fecha Nacimiento": "12/15/93",
+            "DNI": "47483792",
+            "Estado Civil": "soltera"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "Luisa Mercedes",
+          "Apellidos": "Sanchez Moreno Ramos",
+          "Fecha Nacimiento": "10/5/35",
+          "DNI": "07819275",
+          "Parentesco": "madre"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/11/20",
+      "Nombres": "Maria Elizabeth ",
+      "Apellidos": "Gastelu Del Aguila ",
+      "Fecha de Nacimiento": "9/12/62",
+      "Nacionalidad": "Peruana ",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima ",
+      "Provincia": "",
+      "Estado Civil": "Divorciada ",
+      "Documento de Identidad": "10060745",
+      "Domicilio Actual": "Calle Once 374 Casa 13 Rinconada Baja   ",
+      "Correo Electrónico": ["margaste@hotmail.com"],
+      "Teléfonos": ["991679288","014790669"],
+      "Ocupación": "Arquitecta ",
+      "Distrito": "La Molina ",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "Andrea ",
+          "Apellidos": "Lechuga Gastelu ",
+          "Fecha Nacimiento": "10/18/86",
+          "DNI": "43820177",
+          "Estado Civil": "Casada "
+        },
+        {
+            "Nombres": "Daniela ",
+            "Apellidos": "Lechuga Gastelu ",
+            "Fecha Nacimiento": "2/18/90",
+            "DNI": "46172457",
+            "Estado Civil": "Soltera "
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Andres  ",
+          "Apellidos": "De Leon Mendez",
+          "Fecha Nacimiento": "1/3/86",
+          "DNI": "48969364",
+          "Parentesco": "Yerno"
+        },
+        {
+            "Nombres": "Rafaela ",
+            "Apellidos": "De Leon Lechuga ",
+            "Fecha Nacimiento": "3/31/15",
+            "DNI": "79083854",
+            "Parentesco": "Nieta "
+        }
+      ],
+      "Padres y suegros":[
+        {
+          "Nombres": "Victor Raul ",
+          "Apellidos": "Gastelu Wesche",
+          "Fecha Nacimiento": "8/18/30",
+          "DNI": "10062559",
+          "Parentesco": "padre "
+        },
+        {
+            "Nombres": "Betty ",
+            "Apellidos": "Del Aguila Hoyos ",
+            "Fecha Nacimiento": "12/9/32",
+            "DNI": "10060744",
+            "Parentesco": "madre"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/20/20",
+      "Nombres": "Agustin",
+      "Apellidos": "Guevara Ballon",
+      "Fecha de Nacimiento": "6/12/62",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08256601",
+      "Domicilio Actual": "Eguiguren 321",
+      "Correo Electrónico": ["aguevara1@gmail.com"],
+      "Teléfonos": ["997583342"],
+      "Ocupación": ["Gerencial"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "ANA MARIA",
+          "Apellidos": "COGORNO PELOSI",
+          "Fecha de Nacimiento": "9/28/64",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "LIMA",
+          "País": "PERUANA",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08227065"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "AGUSTIN",
+          "Apellidos": "GUEVARA COGORNO",
+          "Fecha Nacimiento": "8/11/94",
+          "DNI": "74648178",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "VALERIA ",
+            "Apellidos": "GUEVARA COGORNO",
+            "Fecha Nacimiento": "8/11/97",
+            "DNI": "74648174",
+            "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "TIZIANA",
+            "Apellidos": "GUEVARA COGORNO",
+            "Fecha Nacimiento": "4/21/99",
+            "DNI": "74648174",
+            "Estado Civil": "SOLTERO"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "ROSINA",
+          "Apellidos": "PELOSI BERGNA",
+          "Fecha Nacimiento": "7/2/47",
+          "DNI": "08253196",
+          "Parentesco": "SUEGRA"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/21/20",
+      "Nombres": "Wilfred Alan",
+      "Apellidos": "Gutiérrez Ampudia",
+      "Fecha de Nacimiento": "7/10/61",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "10476947",
+      "Domicilio Actual": "Jr. Velasquez 381",
+      "Correo Electrónico": ["wilfred.gutierrez@gmail.com"],
+      "Teléfonos": ["993596677"],
+      "Ocupación": ["Jubilado"],
+      "Distrito": "San Borja",
+      "Conyuge":[
+        {
+          "Nombres": "Silvia Roxana",
+          "Apellidos": "Paz Revoredo",
+          "Fecha de Nacimiento": "4/21/63",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Perú",
+          "Departamento": "Arequipa",
+          "Provincia": "Arequipa",
+          "Documento de Identidad": "10476750"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "José Miguel",
+          "Apellidos": "Gutiérrez Paz",
+          "Fecha Nacimiento": "2/7/86",
+          "DNI": "43464925",
+          "Estado Civil": "Soltero"
+        },
+        {
+            "Nombres": "Romina Alejandra",
+            "Apellidos": "Gutiérrez Paz",
+            "Fecha Nacimiento": "6/28/87",
+            "DNI": "44479271",
+            "Estado Civil": "Soltera"
+        },
+        {
+            "Nombres": "Wilfred",
+            "Apellidos": "Gutiérrez Paz",
+            "Fecha Nacimiento": "2/24/94",
+            "DNI": "74689420",
+            "Estado Civil": "Soltero"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "Abraham Edilberto",
+          "Apellidos": "Gutiérrez y Villasante",
+          "Fecha Nacimiento": "3/15/35",
+          "DNI": "29501727",
+          "Parentesco": "Padre"
+        },
+        {
+            "Nombres": "Luzmila",
+            "Apellidos": "Ampudia de Gutiérrez",
+            "Fecha Nacimiento": "11/14/36",
+            "DNI": "29496486",
+            "Parentesco": "Madre"
+        },
+        {
+            "Nombres": "Carmen",
+            "Apellidos": "Revoredo",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Suegra"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/21/20",
+      "Nombres": "Marco Antonio",
+      "Apellidos": "Herrera Ramírez",
+      "Fecha de Nacimiento": "9/28/55",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "04638838",
+      "Domicilio Actual": "Los Nogales 777. Apto A901",
+      "Correo Electrónico": ["marco2809@gmail.com"],
+      "Teléfonos": ["939170089"],
+      "Ocupación": ["Director Ejecutivo"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "Miguelina",
+          "Apellidos": "Curto de Herrera",
+          "Fecha de Nacimiento": "8/1/51",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Perú",
+          "Departamento": "Piura",
+          "Provincia": "Piura",
+          "Documento de Identidad": "04639024"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Brenda Luciana",
+          "Apellidos": "Herrera Curto",
+          "Fecha Nacimiento": "6/7/82",
+          "DNI": "41286272",
+          "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Vanesa",
+            "Apellidos": "Herrera Curto",
+            "Fecha Nacimiento": "4/13/85",
+            "DNI": "42909177",
+            "Estado Civil": "Casada"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Gonzalo Alejandro",
+          "Apellidos": "Palma Quilodrán",
+          "Fecha Nacimiento": "1/9/78",
+          "DNI": "Extranjero",
+          "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Adriana Sofía",
+            "Apellidos": "Palma Herrera",
+            "Fecha Nacimiento": "6/16/15",
+            "DNI": "Extranjera",
+            "Parentesco": "Hija"
+        },
+        {
+            "Nombres": "Emilio Alejandro",
+            "Apellidos": "Palma Herrera ",
+            "Fecha Nacimiento": "11/10/17",
+            "DNI": "Extranjero",
+            "Parentesco": "Hijo"
+        },
+        {
+            "Nombres": "Kirk",
+            "Apellidos": "Lambert Sauey",
+            "Fecha Nacimiento": "2/13/78",
+            "DNI": "Extranjero",
+            "Parentesco": "Esposo"
+        },
+        {
+            "Nombres": "Sebastian Marc James",
+            "Apellidos": "Lambert Herrera",
+            "Fecha Nacimiento": "4/20/16",
+            "DNI": "Extranjero",
+            "Parentesco": "Hijo"
+        },
+        {
+            "Nombres": "Juliette Antonia",
+            "Apellidos": "Lambert Herrera",
+            "Fecha Nacimiento": "7/31/18",
+            "DNI": "Extranjera",
+            "Parentesco": "Hija"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "1/11/20",
+      "Nombres": "Alicia Isabel",
+      "Apellidos": "Huertas Del Pino Utrilla",
+      "Fecha de Nacimiento": "11/19/47",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Divorciada",
+      "Documento de Identidad": "08252446",
+      "Domicilio Actual": "Ca. Montepio 152 Dpto 602 Chacarilla Surco",
+      "Correo Electrónico": ["monihp3@hotmail.com"],
+      "Teléfonos": ["993447700"],
+      "Ocupación": ["Jubilada"],
+      "Distrito": "Surco",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "Pia",
+          "Apellidos": "Espinel Huertas del Pino",
+          "Fecha Nacimiento": "5/20/84",
+          "DNI": "42439209",
+          "Estado Civil": "Soltera"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Diego",
+          "Apellidos": "Huertas del Pino Cavero",
+          "Fecha Nacimiento": "13/8/1982",
+          "DNI": "41444339",
+          "Parentesco": ""
+        },
+        {
+            "Nombres": "Cecilia",
+            "Apellidos": "Avanzini Pinto",
+            "Fecha Nacimiento": "17/6/1946",
+            "DNI": "10342681",
+            "Parentesco": ""
+        },
+        {
+            "Nombres": "Laura Karina",
+            "Apellidos": "Henriquez Lorca",
+            "Fecha Nacimiento": "29/6/1983",
+            "DNI": "CE: 002009334",
+            "Parentesco": ""
+        },
+        {
+            "Nombres": "Raúl Rodrigo",
+            "Apellidos": "Pasco Alfaro",
+            "Fecha Nacimiento": "21/11/1987",
+            "DNI": "44651844",
+            "Parentesco": ""
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "10/23/20",
+      "Nombres": "Fernando",
+      "Apellidos": "Ikeda Matsukawa",
+      "Fecha de Nacimiento": "6/7/48",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "09136102",
+      "Domicilio Actual": "Calle Armando Blondet 280 Piso 6",
+      "Correo Electrónico": ["carlosf.ikeda@gmail.com"],
+      "Teléfonos": ["997923779"],
+      "Ocupación": ["Director"],
+      "Distrito": "San Isidro",
+      "Conyuge":[
+        {
+          "Nombres": "Angélica",
+          "Apellidos": "Arismendi Chirinos",
+          "Fecha de Nacimiento": "6/23/48",
+          "Nacionalidad": "Peruana",
+          "Lugar de Nacimiento": "",
+          "País": "Perú",
+          "Departamento": "Lima",
+          "Provincia": "Lima",
+          "Documento de Identidad": "09136103"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "Rosario Angélica",
+          "Apellidos": "Ikeda Arismendi",
+          "Fecha Nacimiento": "9/3/70",
+          "DNI": "09388694",
+          "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Rosa Mirian",
+            "Apellidos": "Ikeda Arismendi",
+            "Fecha Nacimiento": "5/4/72",
+            "DNI": "09866933",
+            "Estado Civil": "Casada"
+        },
+        {
+            "Nombres": "Carlos Fernando",
+            "Apellidos": "Ikeda Arismendi",
+            "Fecha Nacimiento": "9/18/75",
+            "DNI": "10316890",
+            "Estado Civil": "Casado"
+        },
+        {
+            "Nombres": "Susana Lucía",
+            "Apellidos": "Ikeda Arismendi",
+            "Fecha Nacimiento": "7/20/82",
+            "DNI": "41360188",
+            "Estado Civil": "Casada"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "Diego Antonio",
+          "Apellidos": "Vásquez de Velasco Jiménez",
+          "Fecha Nacimiento": "11/6/68",
+          "DNI": "08274577",
+          "Parentesco": "Cónyuge (Rosario)"
+        },
+        {
+            "Nombres": "José Mauricio",
+            "Apellidos": "Béjar Martínez",
+            "Fecha Nacimiento": "5/6/67",
+            "DNI": "07745132",
+            "Parentesco": "Cónyuge (Mirian)"
+        },
+        {
+            "Nombres": "Kiara",
+            "Apellidos": "Béjar Ikeda",
+            "Fecha Nacimiento": "4/28/03",
+            "DNI": "76354118",
+            "Parentesco": "Hija (Mirian)"
+        },
+        {
+            "Nombres": "Tamara",
+            "Apellidos": "Béjar Ikeda",
+            "Fecha Nacimiento": "3/9/05",
+            "DNI": "76367847",
+            "Parentesco": "Hija (Mirian)"
+        },
+        {
+            "Nombres": "Cynthia Paola",
+            "Apellidos": "Quiñones Berrospi",
+            "Fecha Nacimiento": "4/23/74",
+            "DNI": "09855514",
+            "Parentesco": "Cónyuge (Carlos)"
+        },
+        {
+            "Nombres": "Paola Alessandra",
+            "Apellidos": "Ikeda Quiñones",
+            "Fecha Nacimiento": "1/25/00",
+            "DNI": "73421100",
+            "Parentesco": "Hija (Carlos)"
+        },
+        {
+            "Nombres": "Melissa Lucía",
+            "Apellidos": "Ikeda Quiñones",
+            "Fecha Nacimiento": "6/9/04",
+            "DNI": "73421103",
+            "Parentesco": "Hija (Carlos)"
+        },
+        {
+            "Nombres": "Rodrigo Alonso",
+            "Apellidos": "Ikeda Quiñones",
+            "Fecha Nacimiento": "6/25/07",
+            "DNI": "70710060",
+            "Parentesco": "Hijo (Carlos)"
+        },
+        {
+            "Nombres": "Miguel Alejandro",
+            "Apellidos": "Velasco Cook",
+            "Fecha Nacimiento": "6/7/83",
+            "DNI": "41655769",
+            "Parentesco": "Cónyuge (Susana)"
+        },
+        {
+            "Nombres": "Jose Miguel",
+            "Apellidos": "Velasco Ikeda",
+            "Fecha Nacimiento": "1/18/16",
+            "DNI": "79521677",
+            "Parentesco": "Hijo (Susana)"
+        },
+        {
+            "Nombres": "Alesssandra",
+            "Apellidos": "Velasco Ikeda",
+            "Fecha Nacimiento": "8/3/17",
+            "DNI": "90404825",
+            "Parentesco": "Hija (Susana)"
+        }
+      ],
+      "Padres y suegros":[
+        {
+          "Nombres": "Consuelo",
+          "Apellidos": "Berrospi Velásquez",
+          "Fecha Nacimiento": "4/18/48",
+          "DNI": "06068170",
+          "Parentesco": "Suegra (Carlos)"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Carlos Augusto",
+      "Apellidos": "Koc Fong Sun",
+      "Fecha de Nacimiento": "8/8/55",
+      "Nacionalidad": "Peruano",
+      "Lugar de Nacimiento": "Lima",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "08189437",
+      "Domicilio Actual": "Av Las Artes Sur 175 ",
+      "Correo Electrónico": ["flkoc@hotmail.com"],
+      "Teléfonos": ["998188804"],
+      "Ocupación": ["Jubilado"],
+      "Distrito": "San Borja",
+      "Conyuge":[
+        {
+          "Nombres": "YIM FUN",
+          "Apellidos": "LI DE KOC FONG",
+          "Fecha de Nacimiento": "4/8/57",
+          "Nacionalidad": "BRITANICA",
+          "Lugar de Nacimiento": "HONG KONG",
+          "País": "CHINA",
+          "Departamento": "HONG KONG",
+          "Provincia": "HONG KONG",
+          "Documento de Identidad": "CE 000282467"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "WENDY ISABEL",
+          "Apellidos": "KOC FONG LI",
+          "Fecha Nacimiento": "3/1/83",
+          "DNI": "71820224",
+          "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "CARLOS ALBERTO",
+            "Apellidos": "KOC FONG LI",
+            "Fecha Nacimiento": "3/30/85",
+            "DNI": "42936909",
+            "Estado Civil": "CASADO"
+        },
+        {
+            "Nombres": "ANA VALERIA",
+            "Apellidos": "KOC FONG LI",
+            "Fecha Nacimiento": "7/16/93",
+            "DNI": "47829215",
+            "Estado Civil": "SOLTERA"
+        }
+      ],
+      "Familiares directos de los hijos":[
+        {
+          "Nombres": "DANIEL ERNESTO",
+          "Apellidos": "PEREZ ARBULU",
+          "Fecha Nacimiento": "4/25/77",
+          "DNI": "54538815",
+          "Parentesco": "YERNO"
+        },
+        {
+            "Nombres": "ALEXIA MICAELA",
+            "Apellidos": "PEREZ KOC FONG",
+            "Fecha Nacimiento": "12/17/12",
+            "DNI": " ",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "DANIELA",
+            "Apellidos": "PEREZ KOC FONG",
+            "Fecha Nacimiento": "1/25/16",
+            "DNI": " ",
+            "Parentesco": "NIETA"
+        },
+        {
+            "Nombres": "YAQUELIN ",
+            "Apellidos": "CIEZA BECERRA",
+            "Fecha Nacimiento": "10/6/1991",
+            "DNI": "47640066",
+            "Parentesco": "NUERA"
+        },
+        {
+            "Nombres": "CARLOS DANIEL",
+            "Apellidos": "KOC FONG CIEZA",
+            "Fecha Nacimiento": "6/24/20",
+            "DNI": "70005148",
+            "Parentesco": "NIETO"
+        },
+        {
+            "Nombres": "CARLOS JOSE MIGUEL",
+            "Apellidos": "HERRERA SAAVEDRA",
+            "Fecha Nacimiento": "5/16/89",
+            "DNI": "70005148",
+            "Parentesco": "FUTURO YERNO"
+        }
+      ],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Pedro Angel",
+      "Apellidos": "Kulisic Ibaceta",
+      "Fecha de Nacimiento": "3/23/56",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "",
+      "Estado Civil": "Casado",
+      "Documento de Identidad": "10804683",
+      "Domicilio Actual": "Av. Juan Pezet 561   Dpto 1401 San Isidro",
+      "Correo Electrónico": ["pkulisic@pesqueracantabria.com"],
+      "Teléfonos": ["998131901"],
+      "Ocupación": [""],
+      "Distrito": "",
+      "Conyuge":[
+        {
+          "Nombres": "ROSEMARIE MARGARITA",
+          "Apellidos": "PECAR FONTANOT",
+          "Fecha de Nacimiento": "5/9/68",
+          "Nacionalidad": "PERUANA",
+          "Lugar de Nacimiento": "",
+          "País": "PERUANA",
+          "Departamento": "LIMA",
+          "Provincia": "LIMA",
+          "Documento de Identidad": "08273919"
+        }
+      ],
+      "Hijos":[
+        {
+          "Nombres": "PEDRO ANGEL ESTEBAN",
+          "Apellidos": "KULISIC BITTENCOURT",
+          "Fecha Nacimiento": "4/1/92",
+          "DNI": "72941167",
+          "Estado Civil": "SOLTERO"
+        },
+        {
+            "Nombres": "NICOLE MARIE",
+            "Apellidos": "KULISIC PECAR",
+            "Fecha Nacimiento": "11/11/94",
+            "DNI": "72898894",
+            "Estado Civil": "SOLTERA"
+        },
+        {
+            "Nombres": "MIGUEL ANTONIO",
+            "Apellidos": "KULISIC PECAR",
+            "Fecha Nacimiento": "11/18/97",
+            "DNI": "72898896",
+            "Estado Civil": "SOLTERO"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[
+        {
+          "Nombres": "MARIA BLANCA",
+          "Apellidos": "IBACETA MARTINEZ",
+          "Fecha Nacimiento": "",
+          "DNI": "",
+          "Parentesco": "MADRE"
+        },
+        {
+            "Nombres": "MARGHERITA",
+            "Apellidos": "FONTANOT VENTURA",
+            "Fecha Nacimiento": "8/5/35",
+            "DNI": "",
+            "Parentesco": "SUEGRA"
+        }
+      ],
+      "Fallecidos":[{}]
+  },
+  {   "Fecha Modificación": "",
+      "Nombres": "Nora Emma",
+      "Apellidos": "Lari Castrillon",
+      "Fecha de Nacimiento": "10/28/55",
+      "Nacionalidad": "Peruana",
+      "Lugar de Nacimiento": "Lima ",
+      "País": "Perú",
+      "Departamento": "Lima",
+      "Provincia": "Lima",
+      "Estado Civil": "Soltera",
+      "Documento de Identidad": "41464264",
+      "Domicilio Actual": "Malecón Cisneros 1356 Dpto 401",
+      "Correo Electrónico": ["doctoralari@gmail.com"],
+      "Teléfonos": ["998185389"],
+      "Ocupación": ["Medico"],
+      "Distrito": "Miraflores",
+      "Conyuge":[{}],
+      "Hijos":[
+        {
+          "Nombres": "GRETTA LUCIA",
+          "Apellidos": "MARSTON LARI",
+          "Fecha Nacimiento": "9/28/98",
+          "DNI": "74165303",
+          "Estado Civil": "SOLTERA"
+        },
+        {
+            "Nombres": "ERICA",
+            "Apellidos": "PARKS",
+            "Fecha Nacimiento": "12/26/84",
+            "DNI": "",
+            "Estado Civil": "CASADA"
+        },
+        {
+            "Nombres": "NICOLAS",
+            "Apellidos": "MILLER",
+            "Fecha Nacimiento": "7/16/82",
+            "DNI": "",
+            "Estado Civil": "SOLTERO"
+        }
+      ],
+      "Familiares directos de los hijos":[{}],
+      "Padres y suegros":[{}],
+      "Fallecidos":[{}]
+  }
+]
