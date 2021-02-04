@@ -17,4 +17,18 @@ export const addSocios = (material) => new Promise((res) => {
     });
 });
 
-export default addSocios;
+export const getSocios = () => new Promise((resolve) => {
+  collectionSocios().onSnapshot((query) => {
+    const docs = [];
+    query.forEach((material) => {
+      docs.push({ ...material.data(), id: material.id });
+    });
+    // console.log(docs);
+    resolve(docs);
+  });
+});
+
+export default {
+  addSocios,
+  getSocios,
+};

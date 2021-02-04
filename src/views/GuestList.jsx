@@ -51,44 +51,44 @@ const GuestList = () =>{
             </thead>
             <tbody>
               <tr>
-                <td>Mark</td>
-                <td>Otto</td>
+                <td>Dante</td>
+                <td>75444865</td>
               </tr>
               <tr>
                 <td>Jacob</td>
-                <td>Thornton</td>
-              </tr>
-              <tr>
-                <td>Mark</td>
-                <td>Otto</td>
-              </tr>
-              <tr>
-                <td>Jacob</td>
-                <td>Thornton</td>
+                <td>08999421</td>
               </tr>
               <tr>
                 <td>Mark</td>
-                <td>Otto</td>
+                <td>45000428</td>
               </tr>
               <tr>
-                <td>Jacob</td>
-                <td>Thornton</td>
+                <td>Esteban</td>
+                <td>07455832</td>
               </tr>
               <tr>
-                <td>Mark</td>
-                <td>Otto</td>
+                <td>Maria</td>
+                <td>05666421</td>
               </tr>
               <tr>
-                <td>Jacob</td>
-                <td>Thornton</td>
+                <td>Esteban</td>
+                <td>56000485</td>
               </tr>
               <tr>
-                <td>Jacob</td>
-                <td>Thornton</td>
+                <td>Mariano</td>
+                <td>58666959</td>
               </tr>
               <tr>
-                <td>Jacob</td>
-                <td>Thornton</td>
+                <td>Pierina</td>
+                <td>80055421</td>
+              </tr>
+              <tr>
+                <td>Elizabeth</td>
+                <td>05888425</td>
+              </tr>
+              <tr>
+                <td>Tomas</td>
+                <td>01000456</td>
               </tr>
             </tbody>
           </Table>
@@ -101,8 +101,8 @@ const GuestList = () =>{
             </thead>
             <tbody>
               <tr>
-                <td>Mark</td>
-                <td>Otto</td>
+                <td>15/05/20</td>
+                <td>06/06/20</td>
               </tr>
             </tbody>
           </Table>

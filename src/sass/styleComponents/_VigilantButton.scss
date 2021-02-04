@@ -1,0 +1,28 @@
+.vigilant-subnavbar{
+  background: #293D7F;
+  height: 60px;
+  margin-top: 60px;
+  // margin-left: 108px;
+  display: flex;
+  align-items: center;
+}
+.btn {
+    background: #00803C;
+    border-radius: 6px;
+    color: white;
+  }
+  
+.btn-welcome {
+  width: 312px;
+  height: 90px;
+  font-size: 36px;
+  margin: 2%;
+  cursor: pointer;
+  margin-right: 40px;
+}
+.section-btnVigilant{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  margin-top: 100px;
+}
